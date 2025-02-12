@@ -7,11 +7,11 @@ user is notified with their chosen answers being correct or incorrect.
 
 ## Development Environment
 
-ASP.NET Core 3.1 SDK and SQLite as database are used during project development.
+ASP.NET Core 8.1 SDK and SQLite as database are used during project development.
 In order to communicate with the database, necessary Entity Framework Core packages are used.
 During development, code first database migration approach is embraced.
 
-As a result, ASP.NET Core 3.1 SDK is required to run this project.
+As a result, ASP.NET Core 8.1 SDK is required to run this project.
 
 ## Screenshots
 
